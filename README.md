@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Screenshots
 ![UI](https://firebasestorage.googleapis.com/v0/b/bca3-f7706.appspot.com/o/Screenshot_1588825216.png?alt=media)
+![ui2](https://firebasestorage.googleapis.com/v0/b/bca3-f7706.appspot.com/o/Screenshot_1588825227.png?alt=media)
